@@ -2,5 +2,8 @@
 .
 .
 .
-huugingface deployed : <h1>https://huggingface.co/spaces/Pranavadhar/KFALL<\h1>
-streamlit deployed   : <h1>https://kfall-fall-prediction.streamlit.app/<\h1>
+huugingface deployed : <h1>https://huggingface.co/spaces/Pranavadhar/KFALL
+.
+.
+.
+streamlit deployed   : <h1>https://kfall-fall-prediction.streamlit.app/
