@@ -2,4 +2,4 @@
 .
 .
 .
-<h1>https://huggingface.co/spaces/Pranavadhar/KFALL
+<h1>https://kfall-fall-prediction.streamlit.app/
